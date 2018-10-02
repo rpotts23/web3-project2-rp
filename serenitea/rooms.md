@@ -6,7 +6,7 @@ layout: default
 ## Event Rooms
 
 ### Solar System
-There is the Solar System Room where you can sit at one of ten tables. Each table can be booked individually.
+There is the Solar System Room where you can sit at one of ten tables or our asteroid belt. Each table can be booked individually or you can just come in.
 We do not offer full room booking for this room.
 ### Galaxy
 Our Galaxy Room is for larger parties. We offer many galaxy tables featuring the most beautiful displays of beauty. The Galaxy Room holds up to 50 people.
