@@ -10,7 +10,7 @@ Especially for the little ones 8 years and younger.
 We have made a special tea for our younger patrons. Two dainty tea sandwiches, the daily savory, a true English Scone, preserves and Clotted cream and two desserts. A child's pot of tea or hot chocolate. We also offer Lemonade.
 Price is $12.00 per child
 
-###Venus
+### Venus
 Begin with a warming cup of our soup of the day. This is followed by your tiered server consisting of three sandwiches. A savory, One scone, preserves and clotted cream and three delicate desserts. All this with your own bottomless pot of tea.
 Price is $20.00 per person
 

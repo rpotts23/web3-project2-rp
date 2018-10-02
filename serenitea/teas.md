@@ -31,7 +31,7 @@ title: tea
 * Jasmine
 * Matcha
 ### White
-* white Pomegranate
+* White Pomegranate
 * Prince of Whales
 ### Herbal
 * Strawberry
