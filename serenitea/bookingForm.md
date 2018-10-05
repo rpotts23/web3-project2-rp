@@ -1,3 +1,3 @@
 ---
-layout: form;
+layout: form
 ---
