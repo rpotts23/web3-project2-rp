@@ -1,0 +1,24 @@
+{
+  "name": "web3-project2-rp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd serenitea && bundle exec jekyll serve",
+    "build": "cd serenitea && bundle exec jekyll build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpotts23/web3-project2-rp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpotts23/web3-project2-rp/issues"
+  },
+  "homepage": "https://github.com/rpotts23/web3-project2-rp#readme",
+  "devDependencies": {
+    "npm-run-all": "^4.1.3"
+  }
+}
